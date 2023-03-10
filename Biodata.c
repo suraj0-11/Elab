@@ -1,7 +1,8 @@
 /*
 
 A person needs to enter his details like
-Name,Age,Gender and print the given input
+Name,Age,Gender using structure concept 
+and print the given input;
 Name must be more than 3 characters
 Age mustn't be less than 0
 Gender must be entered as M or F only
