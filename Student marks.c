@@ -92,8 +92,8 @@ test case 2 :
 98
 83
 88
---------ouput----------
 91
+--------ouput----------
 Total marks: 422
 Percentage: 84.40
 Good
